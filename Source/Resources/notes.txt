@@ -1,3 +1,6 @@
+v1.3.1.30   16.03.2017
+	+ Solution converted to VS2017, extension now installs in VS2015 and VS2017.
+
 v1.3.1    31.03.2015
 	+ Continous Integration for BuildVision repository: each commit to master branch initiates a build and creates pre-release, which is available for download from https://github.com/nagits/BuildVision/releases.
 	% Fix Visual Studio crashing if grouping in the Project List is enabled (#1).
